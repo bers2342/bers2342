@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Simon
+
+- 🔭 I am currently working on trustworthy AI and how to build more trustworthy solution in order to be used in production and by your operatins teams.
+- 🌱 I am currently interested in Graph Neural Networks and how they can be used on a broader range in operations. 
+
 
 <!--
 **bers2342/bers2342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
