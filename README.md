@@ -13,6 +13,11 @@
 
 ## Some projects
 
+### [Quantum device Modelisation](https://github.com/bers2342/roosbroeck_weyl)
+
+### [LoGPT.R]()
+
+
 <!--
 **bers2342/bers2342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
